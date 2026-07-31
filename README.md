@@ -5,9 +5,9 @@ Eine vollständige Ionic-Vue-App für Android, die Dateien ausschließlich in ei
 ## Gruppe 4
 
 - Carolin Richter
-- Rahel Friesen
 - Erona Bajrami
 - Hannah Hezel
+- Rahel Friesen
 
 ## Funktionsumfang
 
