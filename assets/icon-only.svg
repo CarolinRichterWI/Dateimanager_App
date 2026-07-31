@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <linearGradient id="background" x1="116" y1="72" x2="905" y2="946" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#776AF8"/>
+      <stop offset="0.55" stop-color="#5948E8"/>
+      <stop offset="1" stop-color="#3827BB"/>
+    </linearGradient>
+    <linearGradient id="folder" x1="246" y1="314" x2="745" y2="746" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#EDEBFF"/>
+    </linearGradient>
+    <filter id="shadow" x="150" y="240" width="724" height="610" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="38" stdDeviation="32" flood-color="#241586" flood-opacity="0.34"/>
+    </filter>
+  </defs>
+  <rect width="1024" height="1024" rx="232" fill="url(#background)"/>
+  <circle cx="861" cy="168" r="192" fill="#FFFFFF" opacity="0.08"/>
+  <circle cx="129" cy="894" r="236" fill="#18B8B5" opacity="0.10"/>
+  <g filter="url(#shadow)">
+    <path
+      d="M224 372C224 330.026 258.026 296 300 296H448.5C469.047 296 488.711 304.316 503.019 319.055L554.981 372.576C569.289 387.315 588.953 395.632 609.5 395.632H724C765.974 395.632 800 429.658 800 471.632V682C800 723.974 765.974 758 724 758H300C258.026 758 224 723.974 224 682V372Z"
+      fill="url(#folder)"
+    />
+    <path
+      d="M224 451C224 413.445 254.445 383 292 383H732C769.555 383 800 413.445 800 451V682C800 723.974 765.974 758 724 758H300C258.026 758 224 723.974 224 682V451Z"
+      fill="#FFFFFF"
+      opacity="0.96"
+    />
+  </g>
+  <circle cx="707" cy="651" r="104" fill="#29B2B5"/>
+  <path d="M707 601V701M657 651H757" stroke="#FFFFFF" stroke-width="28" stroke-linecap="round"/>
+</svg>

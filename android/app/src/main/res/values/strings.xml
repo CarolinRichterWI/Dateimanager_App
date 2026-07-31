@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Dateimanager</string>
+    <string name="title_activity_main">Dateimanager</string>
+    <string name="package_name">de.dhbw.gruppe4.dateimanager</string>
+    <string name="custom_url_scheme">de.dhbw.gruppe4.dateimanager</string>
+</resources>

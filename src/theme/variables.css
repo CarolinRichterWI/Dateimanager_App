@@ -1,0 +1,62 @@
+:root {
+  --ion-font-family:
+    Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --ion-color-primary: #5b4cf0;
+  --ion-color-primary-rgb: 91, 76, 240;
+  --ion-color-primary-contrast: #ffffff;
+  --ion-color-primary-contrast-rgb: 255, 255, 255;
+  --ion-color-primary-shade: #5043d3;
+  --ion-color-primary-tint: #6b5ef2;
+  --ion-color-secondary: #258b91;
+  --ion-color-secondary-rgb: 37, 139, 145;
+  --ion-color-secondary-contrast: #ffffff;
+  --ion-color-secondary-contrast-rgb: 255, 255, 255;
+  --ion-color-secondary-shade: #217a80;
+  --ion-color-secondary-tint: #3b979c;
+  --ion-color-danger: #c93d4c;
+  --ion-color-danger-rgb: 201, 61, 76;
+  --ion-color-danger-contrast: #ffffff;
+  --ion-color-danger-shade: #b13643;
+  --ion-color-danger-tint: #ce505e;
+  --ion-background-color: #f6f7fc;
+  --ion-background-color-rgb: 246, 247, 252;
+  --ion-text-color: #202033;
+  --ion-text-color-rgb: 32, 32, 51;
+  --app-ink: #202033;
+  --app-muted: #77758a;
+}
+
+html {
+  background: var(--ion-background-color);
+}
+
+body {
+  background: var(--ion-background-color);
+}
+
+ion-content {
+  --background:
+    radial-gradient(circle at 50% -10%, rgba(102, 86, 245, 0.08), transparent 29%),
+    #f6f7fc;
+}
+
+ion-alert.custom-alert {
+  --backdrop-opacity: 0.45;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --ion-background-color: #14141d;
+    --ion-background-color-rgb: 20, 20, 29;
+    --ion-text-color: #f4f3fa;
+    --ion-text-color-rgb: 244, 243, 250;
+    --app-ink: #f4f3fa;
+    --app-muted: #aaa7b8;
+  }
+
+  ion-content {
+    --background:
+      radial-gradient(circle at 50% -10%, rgba(102, 86, 245, 0.14), transparent 30%),
+      #14141d;
+  }
+}

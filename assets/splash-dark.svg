@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2732" height="2732" viewBox="0 0 2732 2732">
+  <defs>
+    <linearGradient id="background" x1="210" y1="120" x2="2500" y2="2650" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#27233F"/>
+      <stop offset="0.52" stop-color="#1C1930"/>
+      <stop offset="1" stop-color="#11101D"/>
+    </linearGradient>
+    <filter id="shadow" x="730" y="790" width="1272" height="1080" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="55" stdDeviation="52" flood-color="#000000" flood-opacity="0.45"/>
+    </filter>
+  </defs>
+  <rect width="2732" height="2732" fill="url(#background)"/>
+  <circle cx="2410" cy="325" r="520" fill="#776AF8" opacity="0.11"/>
+  <circle cx="230" cy="2450" r="650" fill="#18B8B5" opacity="0.07"/>
+  <g transform="translate(854 850) scale(1.75)">
+    <path
+      d="M0 76C0 34.026 34.026 0 76 0H224.5C245.047 0 264.711 8.316 279.019 23.055L330.981 76.576C345.289 91.315 364.953 99.632 385.5 99.632H500C541.974 99.632 576 133.658 576 175.632V386C576 427.974 541.974 462 500 462H76C34.026 462 0 427.974 0 386V76Z"
+      fill="#E7E3FF"
+    />
+    <path
+      d="M0 155C0 117.445 30.445 87 68 87H508C545.555 87 576 117.445 576 155V386C576 427.974 541.974 462 500 462H76C34.026 462 0 427.974 0 386V155Z"
+      fill="#FFFFFF"
+    />
+    <circle cx="483" cy="355" r="104" fill="#29B2B5"/>
+    <path d="M483 305V405M433 355H533" stroke="#FFFFFF" stroke-width="28" stroke-linecap="round"/>
+  </g>
+  <text
+    x="1366"
+    y="1930"
+    fill="#FFFFFF"
+    font-family="Arial, sans-serif"
+    font-size="132"
+    font-weight="700"
+    text-anchor="middle"
+    letter-spacing="-3"
+  >Dateimanager</text>
+</svg>
