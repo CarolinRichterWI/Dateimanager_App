@@ -24,7 +24,7 @@ jobs:
           java-version: '21'
 
       - name: Abhaengigkeiten installieren
-        run: npm ci --omit=optional
+        run: npm ci
 
       - name: Tests ausfuehren
         run: npm test
