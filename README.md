@@ -4,9 +4,9 @@
 ## Gruppe 4
 
 - Carolin Richter
-- Rahel Friesen
 - Erona Bajrami
 - Hannah Hezel
+- Rahel Friesen
 
 ## Funktionsumfang
 
