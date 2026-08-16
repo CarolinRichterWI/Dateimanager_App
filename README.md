@@ -1,6 +1,5 @@
 # Dateimanager-App
 
-Eine vollständige Ionic-Vue-App für Android, die Dateien ausschließlich in einem internen App-Verzeichnis verwaltet. Alle Grundanforderungen und alle Zusatzanforderungen der Aufgabenstellung sind umgesetzt.
 
 ## Gruppe 4
 
@@ -142,11 +141,11 @@ Wichtig, nach jeder Änderung am Quellcode muss `npm run android:sync` laufen. S
 Abgabe bis 17.08.2026, 23:59 Uhr in Moodle. Präsentation am 19.08.2026.
 
 - [x] Quellcode als ZIP-Datei
-- [ ] APK-Datei
+- [x] APK-Datei
 - [ ] Präsentation
 - [x] `KI-EINSATZ.md` vollständig ausgefüllt
 - [x] `npm test` und `npm run build` laufen fehlerfrei
-- [ ] Vollständigen Abnahmetest aus `ANFORDERUNGEN.md` im Android-Emulator oder auf einem Android-Gerät durchführen
+- [x] Vollständigen Abnahmetest aus `ANFORDERUNGEN.md` im Android-Emulator oder auf einem Android-Gerät durchführen
 - [x] Lizenzschlüssel taucht nirgends in der Projektdatei auf
 
 Die APK wird so erzeugt

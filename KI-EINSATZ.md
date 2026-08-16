@@ -1,14 +1,10 @@
 # Dokumentation des KI-Einsatzes
-
-Der Einsatz von KI-Tools ist laut Aufgabenstellung erlaubt, muss aber dokumentiert
-werden. Diese Datei hält fest, welche Tools wofür verwendet wurden.
-
 ## Gruppe 4
 
-- Carolin Richter
 - Rahel Friesen
 - Erona Bajrami
 - Hannah Hezel
+- Carolin Richter
 
 ## Eingesetzte Tools
 
@@ -32,8 +28,8 @@ werden. Diese Datei hält fest, welche Tools wofür verwendet wurden.
 ## Wofür wurde keine KI eingesetzt
 
 - Start und Bedienung der App im Android-Emulator
-- Abschließende Funktionsprüfung durch die Gruppe
-- Bewertung der Bedienbarkeit und finale Abgabeentscheidung
+- Abschließende Durchführung des Abnahmetest
+
 
 ## Umgang mit den Ergebnissen
 
